@@ -1,0 +1,26 @@
+{
+    "huggingface": {
+        "models": [
+            "mistralai/Mistral-7B-Instruct-v0.3",
+            "EleutherAI/gpt-neo-2.7B"
+        ]
+    },
+    "openai": {
+        "models": [
+            "gpt-4",
+            "gpt-3.5-turbo"
+        ]
+    },
+    "gemini": {
+        "models": [
+            "Gemini 2.0 Flash",
+            "Gemini 1.5 Pro",
+            "Gemini 2.5 Pro Experimental 03-25"
+        ]
+    },
+    "llama":{
+        "models":[
+            "llama 3.2"
+        ]
+    }
+}
